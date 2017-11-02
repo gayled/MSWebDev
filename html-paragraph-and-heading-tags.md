@@ -1,4 +1,4 @@
-## HTML Paragraph and Heading Tags
+## Lesson1:2  HTML Paragraph and Heading Tags
 
 Pick a topic for a simple 2-page website. Create a heading and 2 paragraphs of approximately 50 words each in the code editor \(on the left in the Editey IDE\).
 

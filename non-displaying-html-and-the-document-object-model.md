@@ -1,4 +1,4 @@
-## Non-Displaying HTML and the Document Object Model
+## Lesson 1.3: Non-Displaying HTML and the Document Object Model
 
 Add **&lt;!DOCTYPE html&gt;** to the first line of your webpage.
 
@@ -32,7 +32,7 @@ You should see your web page’s background change color if you typed the link c
 
 ![](/assets/DOM.png)
 
-###          Document Object Model
+### Document Object Model
 
 
 

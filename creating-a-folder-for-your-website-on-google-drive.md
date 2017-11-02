@@ -1,4 +1,4 @@
-## **Creating a Folder for Your Website on Google Drive**
+## Lesson1.1: **Creating a Folder for Your Website on Google Drive**
 
 1. In your Shared with Me folder you will find a folder with your last name.
 2. Move this folder into My Drive. Inside this is another folder named websites. This is where you will create all websites that you will make in this course.
