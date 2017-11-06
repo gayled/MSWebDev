@@ -26,7 +26,7 @@ You should see your web page’s background change color if you typed the link c
 
 2. After the opening html tag, add **&lt;head&gt; &lt;/head&gt; **tags to enclose your title and stylesheet link.
 
-3. All the part of your website that displays between the closing head and closing html tags should be enclosed in **&lt;body&gt;&lt;/body&gt;** tags.
+3. All the part of your website that displays between the closing head and closing html tags should be enclosed in **&lt;body&gt; &lt;/body&gt;** tags.
 
 **Note: **The browser represents your webpage, or document, as an object that resembles an inverted tree of html elements. The main **html **branch is subdivided into the non-displaying **head** branch and the displaying **body** branch. All other html elements are semantically related to each other in this tree. This is called the Document Object Model, or **DOM**. This will be important to understand when you start to add JavaScript to your pages.
 

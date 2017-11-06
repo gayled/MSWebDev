@@ -1,4 +1,4 @@
-## Lesson 2.1: **Adding an Images Folder to Your Website Folder**
+## Lesson 2.1: **Adding an Images Folder to Your Website Folder1. 11.**
 
 1. Within the folder for the website you’re building, add a new folder and name it **images**.
 

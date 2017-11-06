@@ -1,6 +1,6 @@
 # Unit 1: Creating a Basic Website
 
-This unit consists of 6 lessons that demonstrate how to set up a workflow on Google Drive and to create a 2 page website  using HTML and CSS. Students learn the basic HTML tags \(syntax\) as well as how to add meaningful structure \(semantics\) to the content of their web pages. They use basic CSS rules to render their website content using their distinctive stylings.
+This unit consists of 6 lessons that demonstrate how to set up a workflow on Google Drive and to create a 2 page website  using HTML and CSS. Students learn the basic HTML tags \(syntax\) as well as how to add meaningful structure \(semantics\) to the content of their web pages. They learn the  basic CSS rules for the presentation of their websites using their distinctive stylings.
 
 Google Drive does not function as a web server. It can serve as a simple model of how websites are structured on the server, but lacks the means to specify certain features such as absolute paths or child-to-parent file traversal. It serves files statically; therefore only client-side scripting is available.
 

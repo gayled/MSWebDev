@@ -6,4 +6,6 @@
 * [Lesson 1.2: HTML Paragraph and Heading Tags](html-paragraph-and-heading-tags.md)
 * [Lesson 1.3: Non-Displaying HTML and the Document Object Model](non-displaying-html-and-the-document-object-model.md)
 * [Lesson 2.1: Adding an Images Folder to the Website Folder](lesson-21-adding-an-images-folder-to-the-website-folder.md)
+* [Lesson 2.2: Adding Images to Your Webpage](lesson-22-adding-images-to-your-webpage.md)
+* [Lesson 2.3; Adding a Video to Your Webpage](adding-a-video-to-your-webpage.md)
 
