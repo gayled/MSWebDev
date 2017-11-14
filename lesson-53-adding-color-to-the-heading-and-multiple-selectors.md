@@ -10,15 +10,17 @@ Example:
 
 **html {**
 
-    b**ackground-color: Gainsboro;**
+```
+background-color: Gainsboro;
 
-    **color: slateGray;**
+color: slateGray;
+```
 
 **}**
 
 **h1 {**
 
-   **color: Maroon;**
+**color: Maroon;**
 
 **}**
 
@@ -28,8 +30,5 @@ Example:
 
 **}**
 
-Notice how each heading selector overrides the color assigned by the html selector.  
-
-
-
+Notice how each heading selector overrides the color assigned by the html selector.
 

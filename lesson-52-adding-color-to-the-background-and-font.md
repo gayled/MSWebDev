@@ -14,12 +14,11 @@ CSS defines 140 color names that can be found along with their hex values \(whic
 
 **html {**
 
-     **background-color: red;**
+```text
+ background-color: red;
 
-     **color: blue;**
+ color: blue;
+```
 
 **}**
-
-  
-
 
