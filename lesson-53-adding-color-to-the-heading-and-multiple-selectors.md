@@ -8,7 +8,7 @@ You will see the cascade in action when you add different colors to your heading
 
 Example:
 
-**html {**
+**`html {`**
 
 ```
 background-color: Gainsboro;
@@ -16,19 +16,19 @@ background-color: Gainsboro;
 color: slateGray;
 ```
 
-**}**
+**`}`**
 
-**h1 {**
+**`h1 {`**
 
-**color: Maroon;**
+**`color: Maroon;`**
 
-**}**
+**`}`**
 
-**h2, h3 {**
+**`h2, h3 {`**
 
-**color: MidnightBlue;**
+**`color: MidnightBlue;`**
 
-**}**
+**`}`**
 
 Notice how each heading selector overrides the color assigned by the html selector.
 

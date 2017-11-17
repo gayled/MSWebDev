@@ -6,15 +6,19 @@ An unordered list contains a set of common elements where the order doesn't matt
 
 2. Unordered lists use bullet points as defaults. The tags for an unordered list are**&lt;ul&gt;&lt;/ul&gt;**.
 
-The list item tags \(**&lt;li&gt; **and **&lt;/li&gt;**\) are nested within the &lt;ul&gt; elements. Each list item is enclosed in its own &lt;li&gt; tags. 
+The list item tags \(**&lt;li&gt; **and **&lt;/li&gt;**\) are nested within the &lt;ul&gt; elements. Each list item is enclosed in its own &lt;li&gt; tags.
 
-Example: **&lt;ul&gt; **
+Example: 
 
-**                    &lt;li&gt;green eggs&lt;/li&gt;**
+**`<ul> `**
 
-**                     &lt;li&gt;ham&lt;/li&gt;**
+**`  <li>green eggs</li>`**
 
-**                 &lt;/ul&gt;**
+**`  <li>ham</li>`**
 
-3. Add your unordered list after your paragraph.
+**`</ul>`**
+
+1. Add your unordered list after your paragraph.
+
+
 

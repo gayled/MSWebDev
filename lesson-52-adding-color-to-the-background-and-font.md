@@ -12,7 +12,7 @@ CSS defines 140 color names that can be found along with their hex values \(whic
 
 5. Style the background and font color of your entire website. Here’s an example:
 
-**html {**
+**`html {`**
 
 ```text
  background-color: red;
@@ -20,5 +20,5 @@ CSS defines 140 color names that can be found along with their hex values \(whic
  color: blue;
 ```
 
-**}**
+**`}`**
 

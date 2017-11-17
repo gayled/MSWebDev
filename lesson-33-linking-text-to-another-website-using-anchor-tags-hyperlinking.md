@@ -10,7 +10,9 @@ The anchor tag was the ground-breaking innovation that caused the Web to grow to
 
 4. The default behavior is for the link to open in the same tab, replacing your webpage and forcing your user to use the browser back button to return to your page. You can force the link to open in a new tab by inserting another attribute-value pair, **target=”\_blank”**, in the opening anchor tag. Be sure that there are no spaces in your attribute-value pairs, but a space between every attribute-value pair.
 
-        Example: **&lt;a target="blank"  href="paste-full-URL"&gt;&lt;/a&gt;**
+   ```
+    Example: <a target="blank"  href="paste-full-URL"></a>
+   ```
 
 
 

@@ -6,27 +6,27 @@ The font-family property should have several font names in its value as a fail-s
 
 Example:
 
-**html {**
+**`html {`**
 
 ```
 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 ```
 
-**}**
+**`}`**
 
-**h1 {**
+**`h1 {`**
 
 ```text
  font-family:  "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 ```
 
-**}**
+**`}`**
 
-**h2, h3 {**
+**`h2, h3 {`**
 
-**font-family: "Comic Sans MS", cursive, sans-serif;**
+**`font-family: "Comic Sans MS", cursive, sans-serif;`**
 
-**}**
+**`}`**
 
 Notice that a comma is placed between two selectors that are styled the same way.
 

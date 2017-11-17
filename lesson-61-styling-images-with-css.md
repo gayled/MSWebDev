@@ -16,43 +16,27 @@ Class selectors in a stylesheet are preceded by a period. The class selector for
 
 Examples:
 
-**img {**
+**`img {`**
 
-**border-style: solid;**
+**`border-style: solid;`**
 
-**border-width: 5px; **
+**`border-width: 5px; `**
 
-**border-color**: **DarkSlateGray;**
+**`border-color`**`: `**`DarkSlateGray;`**
 
-OR
+`OR`
 
-**img {**
+**`img {`**
 
-**border: solid 5px DarkSlateGray;**
+**`border: solid 5px DarkSlateGray;`**
 
-**}**
+**`}`**
 
-** &lt;img class="logo"  title="Learn all about us"  alt="My logo"  width="50"  src="images/logo.png"&gt; **
+**` <img class="logo"  title="Learn all about us"  alt="My logo"  width="50"  src="images/logo.png"> `**
 
-**.logo {**
+**`.logo {`**
 
-**border: none;**
+**`border: none;`**
 
-**}**
-
-  
-
-
-
-
-  
-
-
-  
-
-
-
-
-  
-
+**`}`**
 

@@ -6,20 +6,15 @@ Elements such as headings and paragraphs are **block level** elements. That mean
 
 2. There is a** margin shorthand**. The margins are set in the following order: **top, right, bottom, left**. Experiment with setting different amounts of margin to your img selector.
 
-3. You can center your content in the browser by creating a body selector, adjusting its width and setting the body margins to 0 auto. 
+3. You can center your content in the browser by creating a body selector, adjusting its width and setting the body margins to 0 auto.
 
 Example:
 
-**body {**
+**`body {`**
 
-**width: 60%;**
+**`width: 60%;`**
 
-**margin: 0 auto;**
+**`margin: 0 auto;`**
 
-**}**
-
-  
-
-
-
+**`}`**
 

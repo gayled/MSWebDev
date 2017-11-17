@@ -8,19 +8,17 @@
 
 Example:
 
-**h1 {**
+**`h1 {`**
 
 ```
 font-family: normal 25px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 ```
 
-**}**
+**`}`**
 
-**h2, h3 {**
+**`h2, h3 {`**
 
-**font-family: 15 px  "Comic Sans MS", cursive,  sans-serif;**
+**`font-family: 15 px  "Comic Sans MS", cursive,  sans-serif;`**
 
-**}**
-
-
+**`}`**
 

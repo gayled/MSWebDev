@@ -8,24 +8,21 @@ Generic fonts can be displayed in any web browser without any problems. CSS has 
 
 Example:
 
-**html {**
+**`html {`**
 
-   **font-family: sans-serif;**
+**`font-family: sans-serif;`**
 
-**}**
+**`}`**
 
-**h1 {**
+**`h1 {`**
 
-   **font-family: cursive;**
+**`font-family: cursive;`**
 
-**}**
+**`}`**
 
-**h2, h3 {**
+**`h2, h3 {`**
 
-   **font-family: sans-serif;**
+**`font-family: sans-serif;`**
 
-**}**
-
-  
-
+**`}`**
 

@@ -12,11 +12,11 @@ Add **&lt;!DOCTYPE html&gt;** to the first line of your webpage.
 
 4. Test your link by typing this code into the styles.css file:
 
-**body {**
+**`body {`**
 
-**background-color: \#DDD;**
+**`background-color: #DDD;`**
 
-**}**
+**`}`**
 
 You should see your web page’s background change color if you typed the link correctly.
 

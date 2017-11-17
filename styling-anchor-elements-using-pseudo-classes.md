@@ -8,44 +8,39 @@
 
 Example:
 
-**a {**
+**`a {`**
 
-**text-decoration: none;**
+**`text-decoration: none;`**
 
-**font: bold 20px "Arial Black", Gadget, sans-serif;**
+**`font: bold 20px "Arial Black", Gadget, sans-serif;`**
 
-**}**
+**`}`**
 
-**a:link {**
+**`a:link {`**
 
-**color: DarkSlateGray;**
+**`color: DarkSlateGray;`**
 
-**}**
+**`}`**
 
-**a:visited {**
+**`a:visited {`**
 
-**color: MidnightBlue;**
+**`color: MidnightBlue;`**
 
-**}**
+**`}`**
 
-**a:hover {**
+**`a:hover {`**
 
-**color: Maroon;**
+**`color: Maroon;`**
 
-**font-size: 22px;**
+**`font-size: 22px;`**
 
-**}**
+**`}`**
 
-**a:active {**
+**`a:active {`**
 
-**color: Red;**
+**`color: Red;`**
 
-**font-size: 22px;**
+**`font-size: 22px;`**
 
-**}**
-
-  
-
-
-
+**`}`**
 
