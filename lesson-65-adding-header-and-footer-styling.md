@@ -11,36 +11,33 @@ The header and footer are usually given the same styling in background color, fo
 
 Example:
 
-**`header, footer {`**
+`header, footer {`
 
-**`background-color: Silver;`**
+`background-color: Silver;`
 
-**`margin: -10px -50px -10px -100px;`**
+`margin: -10px -50px -10px -100px;`
 
-**`text-align: center;`**
+`text-align: center;`
 
-**`}`**
+`}`
 
-**`header {`**
+`header {`
 
-**`border-bottom-style: groove;`**
+`border-bottom-style: groove;`
 
-**`border-bottom-width: 5px;`**
+`border-bottom-width: 5px;`
 
-**`}`**
+`}`
 
-**`footer {`**
+`footer {`
 
-**`border-top-style: groove;`**
+`border-top-style: groove;`
 
-**`border-top-width: 5px;`**
+`border-top-width: 5px;`
 
-**`margin: 10px 0 0 0;`**
+`margin: 10px 0 0 0;`
 
-**`}`**
+`}`
 
-  
-
-
-
+This concludes the first series of lessons using basic html and css to build a simple website of two one-column web pages.
 
