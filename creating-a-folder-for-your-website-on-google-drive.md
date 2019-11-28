@@ -1,15 +1,8 @@
-## Lesson1.1: **Creating a Folder for Your Website on Google Drive**
+## Lesson1.1: Getting Started with the Repl.it Editor
 
-1. In your Shared with Me folder you will find a folder with your last name.
-2. Move this folder into My Drive. Inside this is another folder named websites. This is where you will create all websites that you will make in this course.
-3. Search for the following apps in Chrome Web Store: **Editey**, **HTML Editey**, **CSS Editey**, and **JavaScript Editey**. All four of these must be attached to your drive in order to edit websites using the Editey integrated development environment \(IDE\).
-4. Choose a topic for a simple 2-page website. Within your websites folder create a new folder with the name of your topic.
-5. Right-click on this folder and choose ‘**Open with Editey**’. Choose '**create a new workspace'**; you don’t have to name it.
-6. Choose Cancel when you are asked to add files to the workspace.
+Sign up for an account on the Repl.it homepage. Select Student for your role. Use the shared link your teacher provides to enroll in the Repl.it classroom for this course. In your profile you will see a notification for your first project.
 
-When the editor has opened, select new HTML file from the file menu and name it **index.html**.
+When you select this project, it will contain three files: index.html, style.css, and script.js. The last file won't be needed for this project. The index.html template created by your teacher contains 1 line: &lt;!DOCTYPE html&gt;.
 
-**Notes:** Use short, one word names for all your folder and file names. It is also a good idea to use all lowercase letters. You will make many fewer errors if you don't have to remember long file/folder names with spaces or uppercase letters when you refer to them in your code.
-
-You will not lose any work if you delete an Editey workspace. Only if you delete files or folders will you have a problem and they can always be recovered from your Trash.
+The Repl.it editor has three panes. The left pane contains the files you will be creating and editing for your website. The center pane is the editor where you will be writing the code that the browser interprets as your website. When you select "Run", the right pane renders your coded website in the browser. The small arrow button in the right corner opens a tab to the hosted website on Repl.it.
 
