@@ -1,4 +1,4 @@
-# Lesson 6.1: Styling Images with CSS
+# Lesson 6.1 Styling Images with CSS
 
 Image width and height can also be styled with CSS. The difference is that the units must be specified with CSS, such as width: 50px;
 
@@ -10,29 +10,29 @@ Image width and height can also be styled with CSS. The difference is that the u
 
 Class selectors in a stylesheet are preceded by a period. The class selector for my example would be **.some\_name**. I can now add a rule border: none; to remove the border from my logo.
 
-Examples:
+## HTML Example
 
-**`img {`**
+```text
+<a href="index.html"><img class="logo"  src="images/logo.png" width="60" alt="logo"/></a>
+```
 
-**`border-style: solid;`**
+## CSS Example
 
-**`border-width: 5px;`**
+```text
+img {
+  border-style: solid;
+  border-width: 5px;
+  border-color:DarkSlateGray;
+}
 
-**`border-color`**`:`**`DarkSlateGray;`**
+/* image shorthand below
+img {
+   border: solid 5px DarkSlateGray;
+}
+*/
 
-`OR`
-
-**`img {`**
-
-**`border: solid 5px DarkSlateGray;`**
-
-**`}`**
-
-**`<img class="logo" title="Learn all about us" alt="My logo" width="50" src="images/logo.png">`**
-
-**`.logo {`**
-
-**`border: none;`**
-
-**`}`**
+.logo {
+  border: none;
+}
+```
 
