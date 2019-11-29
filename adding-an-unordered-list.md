@@ -21,57 +21,44 @@ Example:
 
 ## Code Example
 
-`<!DOCTYPE html>`
+```text
 
-`<html>`
+<!DOCTYPE html>
+<html>
 
-`<head>`
+	<head>
+		<title>Snow Leopard Challenges</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-`<title>Snow Leopard Challenges</title>`
+	<body>
+		<a href="index.html"><img class="logo"  src="images/logo.png" width="60" alt="logo"/></a>
 
-`<link rel="stylesheet" href="style.css" />`
+		<nav>
+				<a href="index.html">Snow Leopard Home  </a>|
+				<a href="#"> Snow Leopard Challenges</a>
+		</nav>
 
-`</head>`
+		<h1>Snow Leopard Challenges</h1>
 
-`<body>`
+		<h2>Countries Where the Snow Leopard Is Endangered</h2>
 
-`<a href="index.html"><img class="logo" src="images/logo.png" width="60" alt="logo"/></a>`
+		<p>Although snow leopards have ruled the mountains of Central 
+		Asia for thousands of years, recently their numbers are dropping 
+		in the following countries:</p>
 
-`<nav>`
+		<ul>
+			<li>China</li>
+			<li>Bhutan</li>
+			<li>Nepal</li>
+			<li>India</li>
+			<li>Pakistan</li>
+			<li>Afghanistan</li>
+			<li>Russia</li>
+			<li>Mongolia</li>
+		</ul>
 
-`<a href="index.html">Snow Leopard Home </a>|`
-
-`<a href="#"> Snow Leopard Challenges</a>`
-
-`</nav>`
-
-`<h1>Snow Leopard Challenges</h1>`
-
-`<h2>Countries Where the Snow Leopard Is Endangered</h2>`
-
-`<p>Although snow leopards have ruled the mountains of Central Asia for thousands of years, recently their numbers are dropping in the following countries:</p>`
-
-`<ul>`
-
-`<li>China</li>`
-
-`<li>Bhutan</li>`
-
-`<li>Nepal</li>`
-
-`<li>India</li>`
-
-`<li>Pakistan</li>`
-
-`<li>Afghanistan</li>`
-
-`<li>Russia</li>`
-
-`<li>Mongolia</li>`
-
-`</ul>`
-
-`</body>`
-
-`</html>`
+	</body>
+</html>
+```
 
