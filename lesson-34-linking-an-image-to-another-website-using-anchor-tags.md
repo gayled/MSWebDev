@@ -7,5 +7,7 @@ You can turn an image into a hyperlink by nesting the src tag for your image wit
 
 ## Code Example
 
-`<a target="_blank" href="https://defenders.org/wildlife"><img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/></a>`
+```text
+<a target="_blank" href="https://defenders.org/wildlife"><img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/></a>
+```
 
