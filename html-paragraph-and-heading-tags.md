@@ -1,4 +1,4 @@
-# Lesson 1.2: HTML Paragraph and Heading Tags
+# Lesson 1.2 HTML Paragraph and Heading Tags
 
 Pick a topic that you know a lot about for your first 2-page website. Select index.html from the files in the left pane of the Repl.it editor. Create a heading and 2 paragraphs of approximately 50 words each in the code editor \(the center pane\).
 
