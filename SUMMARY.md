@@ -23,7 +23,7 @@
 * [Lesson 5.3 Adding Color to the Heading and Multiple Selectors](lesson-53-adding-color-to-the-heading-and-multiple-selectors.md)
 * [Lesson 5.4 CSS Generic Fonts](lesson-54-css-generic-fonts.md)
 * [Lesson 5.5 Web-Safe Font Combinations and Font-Size](lesson-55-web-safe-font-combinations-and-font-size.md)
-* [Lesson 5.6: Google Web Fonts](lesson-56-google-web-fonts.md)
+* [Lesson 5.6 Google Web Fonts](lesson-56-google-web-fonts.md)
 * [Lesson 5.7: Font Size, Weight, and the Font Shorthand Property](font-size-weight-and-the-font-shorthand-property.md)
 * [Lesson 5.8:Styling Anchor Elements Using Pseudo-Classes](styling-anchor-elements-using-pseudo-classes.md)
 * [Lesson 6.1: Styling Images with CSS](lesson-61-styling-images-with-css.md)
