@@ -1,4 +1,4 @@
-# Lesson 1.3: Non-Displaying HTML and the Document Object Model
+# Lesson 1.3 Non-Displaying HTML and the Document Object Model
 
 The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
