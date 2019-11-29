@@ -7,11 +7,11 @@ The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 1. Add **title** tags with the title of your page between them on the second line. This is the title that will display on search engine results as a clickable link.
 2. Link the stylesheet file, style.css, to your web page by adding &lt;link rel="stylesheet" href="style.css"/&gt; on the line following your title. The &lt;link/&gt; tag is a self-closing tag denoted by the &lt;.../&gt; syntax
 
-   1. Test your link by typing this code into the style.css file:
+   Test your link by typing this code into the style.css file:
 
    `body {`
 
-   `background-color: #DDD`
+    `background-color: #DDD`
 
    `}`
 
