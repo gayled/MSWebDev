@@ -1,12 +1,10 @@
-## **Adding List Styling**
+# Lesson 6.4:  Adding List Styling
 
 Lists can also be styled to set them off from the rest of the page
 
-1. The bullets of a **&lt;ul&gt; ** can be squares, circles, none, or the default, disks. Set the** list-style-type** to another type.
-
+1. The bullets of a **&lt;ul&gt;**  can be squares, circles, none, or the default, disks. Set the **list-style-type** to another type.
 2. Lists can be given backgrounds, borders, padding, and box shadows. Give your lists back-ground color, border, padding, and box shadow rules using separate selectors or a multiple selector for ul and ol.
-
-3. The default for numbers and bullets is outside the list. Change this by adding a** list-style-position **property to inside.
+3. The default for numbers and bullets is outside the list. Change this by adding a **list-style-position** property to inside.
 
 Example:
 
@@ -20,7 +18,7 @@ Example:
 
 **`ol {`**
 
-**`width: 350px; `**
+**`width: 350px;`**
 
 **`}`**
 
@@ -41,7 +39,4 @@ Example:
 **`list-style-position: inside;`**
 
 **`}`**
-
-  
-
 

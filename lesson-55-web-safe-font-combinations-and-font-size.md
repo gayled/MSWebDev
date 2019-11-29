@@ -1,4 +1,4 @@
-## **Web Safe Font Combinations and Font Size**
+# Lesson 5.5: Web-Safe Font Combinations and Font-Size
 
 The font-family property should have several font names in its value as a fail-safe mechanism in case an older browser doesn’t support the first font named, it tries the next; the ending font should be a generic font. Font sizes can be specified in several ways: cm\(centimeters\) and in\(inches\) \(both are rarely used\) and more commonly in px\(pixels\)and em \(a font size that is relative to the screen size it is viewed upon\). We will use pixels.
 
@@ -8,7 +8,7 @@ Example:
 
 **`html {`**
 
-```
+```text
 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 ```
 

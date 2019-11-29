@@ -1,4 +1,4 @@
-## Lesson1.1 Getting Started with the Repl.it Editor
+# Lesson 1.1: Getting Started with the Repl.it Editor
 
 Sign up for an account on the Repl.it homepage. Select Student for your role. Use the shared link your teacher provides to enroll in the Repl.it classroom for this course. In your profile you will see a notification for your first project.
 

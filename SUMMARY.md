@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Unit 1: Creating a Basic Website \(HTML/CSS\)](chapter1.md)

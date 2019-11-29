@@ -1,11 +1,9 @@
-## Lesson 3.5 Linking Web Pages Within Your Site Using the Nav and Anchor Tags
+# Lesson 3.5: Linking Web Pages Within Your Site Using the Nav and Anchor Tags
 
 You will now add a second page to your site by selecting the File icon in the File pane and naming it. Before you add any content to this page, think about which non-displaying and structural elements you need to include in this new page and add them now.
 
 1. Give your page a new title, a new main heading, and keep your logo.
-
-2. On your index.html page, add opening and closing** &lt;nav&gt;** tags after your logo.
-
+2. On your index.html page, add opening and closing **&lt;nav&gt;** tags after your logo.
 3. Within these nav tags, add the following markup:
 
 **&lt;a href=”\#”&gt;Home\(or what you want to name your home page\)&lt;/a&gt; \|**
@@ -17,7 +15,7 @@ For now, we will separate the page links by using the \| \(pipe\) character. Not
 1. Copy the nav element code to your second page in the same location, changing the Home link to index.html and the second link to \#. Check that your links work correctly.
 2. On both pages, link the logo to index.html, using \# on the home page and index.html on the second page.
 
-### Code Example
+## Code Example
 
 `<!DOCTYPE html>`
 
@@ -33,11 +31,11 @@ For now, we will separate the page links by using the \| \(pipe\) character. Not
 
 `<body>`
 
-`<a href="#"><img  src="images/logo.png" width="60" alt="logo"/></a>`
+`<a href="#"><img src="images/logo.png" width="60" alt="logo"/></a>`
 
 `<nav>`
 
-`<a href="#">Snow Leopard Home  </a>|`
+`<a href="#">Snow Leopard Home </a>|`
 
 `<a href="challenges.html"> Snow Leopard Challenges</a>`
 
