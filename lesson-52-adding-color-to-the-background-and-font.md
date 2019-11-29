@@ -8,6 +8,8 @@ CSS defines 140 color names that can be found along with their hex values \(whic
 4. Each rule is terminated with a semicolon.
 5. Styling the html selector as below changes every page's background to red and font color to blue.
 
+## Code Example
+
 ```text
 html {
   background-color: red;
