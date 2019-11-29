@@ -1,4 +1,4 @@
-# Lesson 4.3 Adding and Ordered List
+# Lesson 4.3 Adding an Ordered List
 
 When the order of your list matters, you want to use the ordered list element, &lt;ol&gt;.
 
