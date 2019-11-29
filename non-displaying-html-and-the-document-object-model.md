@@ -1,38 +1,36 @@
-## Lesson 1.3: Non-Displaying HTML and the Document Object Model
+## Lesson 1.3 Non-Displaying HTML and the Document Object Model
 
 The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
-**Note: **This tag and the ones that follow don’t display content in your web page, but should not be left out. The doctype allows the browser rendering engine to know that your web page is using the most current version of html, HTML5. If this doctype isn’t included, the browser may not render \(display\) parts of your website correctly.
+**Note: **This tag and the ones that follow don’t display content in your web page, but should not be left out. The doctype allows the browser rendering engine to know that your web page is using the most current version of html, HTML5. If this doctype isn’t included, some browsers may not render \(display\) parts of your website correctly.
 
 1. Add **title** tags with the title of your page between them on the second line. This is the title that will display on search engine results as a clickable link.
 
-2. Add a new file, **styles.css**, to your website by selecting the new file icon in the upper left pane of Repl.it.
+2. Link the stylesheet file, style.css, to your web page by adding &lt;link rel="stylesheet" href="style.css"/&gt; on the line following your title. The &lt;link/&gt; tag is a self-closing tag denoted by the &lt;.../&gt; syntax
 
-3. Link this stylesheet file to your web pages by adding **&lt;link rel="stylesheet"  href="styles.css"&gt;** on the line following your title.
+   1. Test your link by typing this code into the style.css file:
 
-4. Test your link by typing this code into the styles.css file:
+   `body {`
 
-`body {`
+   `background-color: #DDD;`
 
-`background-color: #DDD;`
+   `}`
 
-`}`
+   You should see your web page’s background change color if you typed the link correctly.
 
-You should see your web page’s background change color if you typed the link correctly.
-
-**Note: **This construct, **attribute=”value”** is very common in opening tags. It modifies a certain attribute \(or feature\) of the tag by assigning a value to that feature. These are called **attribute-value** pairs. The **rel=”stylesheet”** attribute-value pair states that the **rel**ationship of this link is to a stylesheet. A stylesheet is a file of rules that determines the presentation of a web page: its colors, fonts, etc. The second attribute-value pair, **href=”styles.css”**, tells the browser the location of that stylesheet file in your filesystem. It is a **link** or **h**ypertext r**ef**erence.
+**Note: **The construct, **attribute=”value”** is very common in opening tags. It modifies a certain attribute \(or feature\) of the tag by assigning a value to that feature. These are called **attribute-value** pairs. The **rel=”stylesheet”** attribute-value pair states that the **rel**ationship of this link is to a stylesheet. A stylesheet is a file of rules that determine the presentation of a web page: its colors, fonts, etc. The second attribute-value pair, **href=”style.css”**, tells the browser the location of that stylesheet file in your filesystem. It is a **link** or **h**ypertext r**ef**erence.
 
 1. Enclose all the code you have written so far except &lt;!DOCTYPE html&gt; in **&lt;html&gt; &lt;/html&gt; **tags.
 
 2. After the opening html tag, add **&lt;head&gt; &lt;/head&gt; **tags to enclose your title and stylesheet link.
 
-3. All the part of your website that displays between the closing head and closing html tags should be enclosed in **&lt;body&gt; &lt;/body&gt;** tags.
+3. All of your website that displays between the closing head and closing html tags should be enclosed in **&lt;body&gt; &lt;/body&gt;** tags.
 
 **Note: **The browser represents your webpage, or document, as an object that resembles an inverted tree of html elements. The main **html **branch is subdivided into the non-displaying **head** branch and the displaying **body** branch. All other html elements are semantically related to each other in this tree. This is called the Document Object Model, or **DOM**. This will be important to understand when you start to add JavaScript to your pages.
 
 ### Document Object Model
 
-![](/assets/DOM.png)
+![](/assets/dom.png)
 
 ### Code Example
 
@@ -40,27 +38,27 @@ You should see your web page’s background change color if you typed the link c
 
 `<html>`
 
-`	<head>`
+`<head>`
 
-`		<title>Snow Leopard Home</title>`
+`<title>Snow Leopard Home</title>`
 
-`		<link rel="stylesheet" href="style.css" />`
+`<link rel="stylesheet" href="style.css" />`
 
-`	</head>`
+`</head>`
 
-`	<body>`
+`<body>`
 
-`		<h1>Snow Leopards</h1>`
+`<h1>Snow Leopards</h1>`
 
-`		<h2>Introducing the Snow Leopard</h2>`
+`<h2>Introducing the Snow Leopard</h2>`
 
-`		<p>Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>`
+`<p>Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>`
 
-`		<h2>How the Snow Leopard Adapts to its Environment</h2>`
+`<h2>How the Snow Leopard Adapts to its Environment</h2>`
 
-`		<p>For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an extra fur coat when it is extremely cold. So why are they endangered?</p>`
+`<p>For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an extra fur coat when it is extremely cold. So why are they endangered?</p>`
 
-`	</body>`
+`</body>`
 
 `</html>`
 
