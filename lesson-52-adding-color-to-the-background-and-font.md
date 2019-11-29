@@ -6,7 +6,7 @@ CSS defines 140 color names that can be found along with their hex values \(whic
 2. The selector is followed by a space and open and closed curly braces.
 3. The properties to be styled and their values are enclosed within the curly braces and the property value is separated from the property name by a colon and a space.
 4. Each rule is terminated with a semicolon.
-5. Style the background and font color of your entire website. Here’s an example:
+5. Styling the html selector as below changes every page's background to red and font color to blue.
 
 ```text
 html {
