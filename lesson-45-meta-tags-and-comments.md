@@ -14,5 +14,5 @@
 
 Example: **&lt;!- - HTML completed on "add today's date" - - &gt;**
 
-Notice the eclamation point in the opening tag as well as the two hyphens. Coments are closed with tow hyphens followed by an angle bracket. There is no forward slash. Be careful with the syntax of comments. If the closing tag isn't written properly, none of your code past the comment will display!.
+Notice the exclamation point in the opening tag as well as the two hyphens. Comments are closed with two hyphens followed by an angle bracket. There is no forward slash. Be careful with the syntax of comments. If the closing tag isn't written properly, none of your code past the comment will display!.
 
