@@ -1,4 +1,4 @@
-# Lesson 3.3: Linking Text to Another Website Using Anchor Tags \(Hyperlinking\)
+# Lesson 3.3 Linking Text to Another Website Using Anchor Tags \(Hyperlinking\)
 
 The anchor tag was the ground-breaking innovation that caused the Web to grow to what it is today by allowing users to instantly jump from document to document and server to server. You will create a link from some text on your page to a Wikipedia article on your topic.
 
