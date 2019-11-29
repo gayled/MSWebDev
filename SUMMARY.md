@@ -12,7 +12,7 @@
 * [Lesson 3.2 Adding alt and title Lesson 3.2: Attributes to your Images](adding-alt-and-title-attributes-to-your-images.md)
 * [Lesson 3.3 Linking Text to Another Website Using Anchor Tags \(Hyperlinking\)](lesson-33-linking-text-to-another-website-using-anchor-tags-hyperlinking.md)
 * [Lesson 3.4 Linking an Image to Another Website Using Anchor Tags](lesson-34-linking-an-image-to-another-website-using-anchor-tags.md)
-* [Lesson 3.5: Linking Web Pages Within Your Site Using the Nav and Anchor Tags](lesson-35-linking-web-pages-within-your-site-using-the-nav-and-anchor-tags.md)
+* [Lesson 3.5 Linking Web Pages Within Your Site Using the Nav and Anchor Tags](lesson-35-linking-web-pages-within-your-site-using-the-nav-and-anchor-tags.md)
 * [Lesson 4.1 Lists and the Header, Footer, and Section Elements](lesson-41-lists-and-the-header-footer-and-section-elements.md)
 * [Lesson 4.2: Adding an Unordered List](adding-an-unordered-list.md)
 * [Lesson 4.3 Adding an Ordered List](lesson-43-adding-and-ordered-list.md)

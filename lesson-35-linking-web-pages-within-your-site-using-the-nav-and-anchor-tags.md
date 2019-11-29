@@ -1,4 +1,4 @@
-# Lesson 3.5: Linking Web Pages Within Your Site Using the Nav and Anchor Tags
+# Lesson 3.5 Linking Web Pages Within Your Site Using the Nav and Anchor Tags
 
 You will now add a second page to your site by selecting the File icon in the File pane and naming it. Before you add any content to this page, think about which non-displaying and structural elements you need to include in this new page and add them now.
 
