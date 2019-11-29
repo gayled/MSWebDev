@@ -1,4 +1,4 @@
-## **Adding an Unordered List**
+## Lesson 4.2 **Adding an Unordered List**
 
 An unordered list contains a set of common elements where the order doesn't matter.
 
@@ -26,53 +26,53 @@ Example:
 
 `<html>`
 
-`	<head>`
+`<head>`
 
-`		<title>Snow Leopard Challenges</title>`
+`<title>Snow Leopard Challenges</title>`
 
-`		<link rel="stylesheet" href="style.css" />`
+`<link rel="stylesheet" href="style.css" />`
 
-`	</head>`
+`</head>`
 
-`	<body>`
+`<body>`
 
-`		<a href="index.html"><img class="logo"  src="images/logo.png" width="60" alt="logo"/></a>`
+`<a href="index.html"><img class="logo"  src="images/logo.png" width="60" alt="logo"/></a>`
 
-`		<nav>`
+`<nav>`
 
-`			<a href="index.html">Snow Leopard Home  </a>|`
+`<a href="index.html">Snow Leopard Home  </a>|`
 
-`			<a href="#"> Snow Leopard Challenges</a>`
+`<a href="#"> Snow Leopard Challenges</a>`
 
-`		</nav>`
+`</nav>`
 
-`		<h1>Snow Leopard Challenges</h1>`
+`<h1>Snow Leopard Challenges</h1>`
 
-`		<h2>Countries Where the Snow Leopard Is Endangered</h2>`
+`<h2>Countries Where the Snow Leopard Is Endangered</h2>`
 
-`		<p>Although snow leopards have ruled the mountains of Central Asia for thousands of years, recently their numbers are dropping in the following countries:</p>`
+`<p>Although snow leopards have ruled the mountains of Central Asia for thousands of years, recently their numbers are dropping in the following countries:</p>`
 
-`		<ul>`
+`<ul>`
 
-`			<li>China</li>`
+`<li>China</li>`
 
-`			<li>Bhutan</li>`
+`<li>Bhutan</li>`
 
-`			<li>Nepal</li>`
+`<li>Nepal</li>`
 
-`			<li>India</li>`
+`<li>India</li>`
 
-`			<li>Pakistan</li>`
+`<li>Pakistan</li>`
 
-`			<li>Afghanistan</li>`
+`<li>Afghanistan</li>`
 
-`			<li>Russia</li>`
+`<li>Russia</li>`
 
-`			<li>Mongolia</li>`
+`<li>Mongolia</li>`
 
-`		</ul>`
+`</ul>`
 
-`	</body>`
+`</body>`
 
 `</html>`
 
