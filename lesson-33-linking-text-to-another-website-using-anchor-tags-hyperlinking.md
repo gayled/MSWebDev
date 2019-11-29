@@ -10,6 +10,6 @@ The anchor tag was the ground-breaking innovation that caused the Web to grow to
 ## Code Example
 
 ```text
-    `<p>Have you ever seen a `**`<a target="_blank" href="https://simple.wikipedia.org/wiki/Snow_leopard">snow leopard</a>`**`? ....</p>`
+<p>Have you ever seen a <a target="_blank" href="https://simple.wikipedia.org/wiki/Snow_leopard">snow leopard</a>? 
 ```
 
