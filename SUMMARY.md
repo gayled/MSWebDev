@@ -19,7 +19,7 @@
 * [Lesson 4.4 Adding a Header,  Main Section, and Footer to the Body of Your Website](lesson-44-adding-a-header-sections-and-footer-to-the-body-of-your-website.md)
 * [Lesson 4.5 Meta Tags and Comments](lesson-45-meta-tags-and-comments.md)
 * [Lesson 5.1 Introducing CSS](lesson-51-introducing-css.md)
-* [Lesson 5.2: Adding Color to the Background and Font](lesson-52-adding-color-to-the-background-and-font.md)
+* [Lesson 5.2 Adding Color to the Background and Font](lesson-52-adding-color-to-the-background-and-font.md)
 * [Lesson 5.3: Adding Color to the Heading and Multiple Selectors](lesson-53-adding-color-to-the-heading-and-multiple-selectors.md)
 * [Lesson 5.4: CSS Generic Fonts](lesson-54-css-generic-fonts.md)
 * [Lesson 5.5: Web-Safe Font Combinations and Font-Size](lesson-55-web-safe-font-combinations-and-font-size.md)
