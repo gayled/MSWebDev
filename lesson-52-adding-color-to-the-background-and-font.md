@@ -1,4 +1,4 @@
-# Lesson 5.2 Adding Color to the Background and Font
+# Lesson 5.2 Adding Color to the Background and Font and CSS Comments
 
 CSS defines 140 color names that can be found along with their hex values \(which we will discuss later\) at [W3schools](http://www.w3schools.com/colors/colors_names.asp). Choose colors for your background and font that will enhance the design/aesthetics of your site.
 
@@ -7,11 +7,13 @@ CSS defines 140 color names that can be found along with their hex values \(whic
 3. The properties to be styled and their values are enclosed within the curly braces and the property value is separated from the property name by a colon and a space.
 4. Each rule is terminated with a semicolon.
 5. Styling the html selector as below changes every page's background to red and font color to blue.
+6. Unlike HTML comments, CSS comments are enclosed in /\* .... \*/ syntax.
 
 ## Code Example
 
 ```text
 html {
+/* styles the background and font of every page */
   background-color: red;
   color: blue;
 }
