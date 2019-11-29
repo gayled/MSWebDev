@@ -28,7 +28,7 @@
 * [Lesson 5.8 Styling Anchor Elements Using Pseudo-Classes](styling-anchor-elements-using-pseudo-classes.md)
 * [Untitled](untitled.md)
 * [Lesson 6.2 Styling Images with CSS](lesson-61-styling-images-with-css.md)
-* [Lesson 6.2 Adding Margins to HTML Elements](lesson-62-adding-margins-to-html-elements.md)
+* [Lesson 6.3 Adding Margins to HTML Elements](lesson-62-adding-margins-to-html-elements.md)
 * [Lesson 6.3 Box and Text Shadows](box-shadows-text-shadows-and-browser-prefixes.md)
 * [Lesson 6.4:  Adding List Styling](lesson-63-adding-list-styling.md)
 * [Lesson 6.5: Adding a Background Image](lesson-65-adding-a-background-image.md)

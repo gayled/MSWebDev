@@ -1,4 +1,4 @@
-# Lesson 6.2 Adding Margins to HTML Elements
+# Lesson 6.3 Adding Margins to HTML Elements
 
 Elements such as headings and paragraphs are **block level** elements. That means that they can be thought of as existing in a rectangular block on the web page. Because of this, the margins of this block can be adjusted to add or subtract space around these elements.
 
