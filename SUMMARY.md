@@ -16,7 +16,7 @@
 * [Lesson 4.1 Lists and the Header, Footer, and Section Elements](lesson-41-lists-and-the-header-footer-and-section-elements.md)
 * [Lesson 4.2: Adding an Unordered List](adding-an-unordered-list.md)
 * [Lesson 4.3 Adding an Ordered List](lesson-43-adding-and-ordered-list.md)
-* [Lesson 4.4: Adding a Header, Section\(s\), and Footer to the Body of Your Website](lesson-44-adding-a-header-sections-and-footer-to-the-body-of-your-website.md)
+* [Lesson 4.4 Adding a Header,  Main Section, and Footer to the Body of Your Website](lesson-44-adding-a-header-sections-and-footer-to-the-body-of-your-website.md)
 * [Lesson 4.5: Meta Tags and Comments](lesson-45-meta-tags-and-comments.md)
 * [Lesson 5.1: Introducing CSS](lesson-51-introducing-css.md)
 * [Lesson 5.2: Adding Color to the Background and Font](lesson-52-adding-color-to-the-background-and-font.md)
