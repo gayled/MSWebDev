@@ -1,4 +1,4 @@
-# Lesson 2.1: Adding an Images Folder to the Website Folder
+# Lesson 2.1 Adding an Images Folder to the Website Folder
 
 You will add two images to your web page. One will be a logo for the top of your page and the other will be placed between the two paragraphs.
 
