@@ -1,4 +1,4 @@
-# Lesson 2.2: Adding Images to Your Webpage
+# Lesson 2.2 Adding Images to Your Webpage
 
 1. Add your first image between the 1st paragraph and the subheading for the second paragraph.
 2. The tag for adding an image is **&lt;img src=”images/yourimagename.ext”/&gt;** \(img is a self-closing tag\).
