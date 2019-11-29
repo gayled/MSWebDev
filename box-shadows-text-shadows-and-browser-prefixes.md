@@ -1,4 +1,4 @@
-# Lesson 6.3 Box and Text Shadows
+# Lesson 6.4 Box and Text Shadows
 
 Box shadows give a three-dimensional effect to HTML elements. The first item in the property value is the horizontal length \(positive numbers move it right, negative numbers move it down\); the second item is the vertical length \(positive is down, negative is up\); the third item is the blur radius \(smaller numbers are sharper\); the last number is the spread radius \(positive numbers increase the shadow, negative numbers decrease it\).
 

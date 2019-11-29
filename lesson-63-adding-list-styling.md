@@ -1,4 +1,4 @@
-# Lesson 6.4:  Adding List Styling
+# Lesson 6.5 Adding List Styling
 
 Lists can also be styled to set them off from the rest of the page
 
