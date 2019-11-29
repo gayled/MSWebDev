@@ -10,53 +10,61 @@ When the order of your list matters, you want to use the ordered list element, &
 
 ## Code Example
 
-...
+```text
 
-`<ul>`
+<!DOCTYPE html>
+<html>
 
-`<li>China</li>`
+	<head>
+		<title>Snow Leopard Challenges</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
 
-`<li>Bhutan</li>`
+	<body>
+			<a href="index.html"><img class="logo"  src="images/logo.png" width="60" alt="logo"/></a>
 
-`<li>Nepal</li>`
+			<nav>
+				<a href="index.html">Snow Leopard Home  </a>|
+				<a href="#"> Snow Leopard Challenges</a>
+			</nav>
 
-`<li>India</li>`
+		<h1>Snow Leopard Challenges</h1>
 
-`<li>Pakistan</li>`
+		<h2>Countries Where the Snow Leopard Is Endangered</h2>
 
-`<li>Afghanistan</li>`
+		<p>Although snow leopards have ruled the mountains of Central 
+		Asia for thousands of years, recently their numbers are dropping 
+		in the following countries:</p>
 
-`<li>Russia</li>`
+		<ul>
+			<li>China</li>
+			<li>Bhutan</li>
+			<li>Nepal</li>
+			<li>India</li>
+			<li>Pakistan</li>
+			<li>Afghanistan</li>
+			<li>Russia</li>
+			<li>Mongolia</li>
+		</ul>
 
-`<li>Mongolia</li>`
+		<a target="_blank" href="https://defenders.org/wildlife"><img src="images/cubs.jpg" width="400" alt="Snow leopard Cubs" title="Snow Leopard Cubs"/></a>
+		
+		<h3>Cute Snow Leopard Cubs</h3>
 
-`</ul>`
+		<h2>Causes of Snow Leopard Population Decline</h2>
 
-`<a target="_blank" href="https://defenders.org/wildlife"><img src="images/cubs.jpg" width="400" alt="Snow leopard Cubs" title="Snow Leopard Cubs"/></a>`
+		<p>Many factors contribute to declining snow
+			leopard numbers in these countries. Some of them are:
+		</p>
 
-`<h3>Cute Snow Leopard Cubs</h3>`
+		<ol>
+			<li><strong>Climate change</strong> - greatest long term threat that could destroy 30% of their habitat</li>
+			<li><strong>Local communities</strong> - kill the animals snow leopards prey upon</li>
+			<li><strong>Killed by farmers</strong> - when they prey on their livestock to survive</li>
+			<li><strong>Human settlement in their range</strong> - forces them to survive in smaller areas with less prey</li>
+		</ol>
 
-`<h2>Causes of Snow Leopard Population Decline</h2>`
-
-`<p>Many factors contribute to declining snow`
-
-`leopard numbers in these countries. Some of them are:`
-
-`</p>`
-
-`<ol>`
-
-`<li>Climate change - greatest long term threat that could destroy 30% of their habitat</li>`
-
-`<li>Local communities - kill the animals snow leopards prey upon</li>`
-
-`<li>Killed by farmers - when they prey on their livestock to survive</li>`
-
-`<li>Human settlement in their range - forces them to survive in smaller areas with less prey</li>`
-
-`</ol>`
-
-`</body>`
-
-`</html>`
+	</body>
+</html>
+```
 
