@@ -1,4 +1,4 @@
-# Lesson 3.2: Adding alt and title Lesson 3.2: Attributes to your Images
+# Lesson 3.2 Adding alt and title Lesson 3.2: Attributes to your Images
 
 The alt attribute is absolutely necessary! Its function is to describe the content of your images to visually impaired persons who use a screen reader and also allows search engines to index the content of your images. Its form is **alt=”short\_description\_of\_image”**.
 
