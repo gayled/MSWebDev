@@ -1,4 +1,4 @@
-# Lesson 4.2: Adding an Unordered List
+# Lesson 4.2 Adding an Unordered List
 
 An unordered list contains a set of common elements where the order doesn't matter.
 

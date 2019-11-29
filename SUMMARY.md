@@ -14,7 +14,7 @@
 * [Lesson 3.4 Linking an Image to Another Website Using Anchor Tags](lesson-34-linking-an-image-to-another-website-using-anchor-tags.md)
 * [Lesson 3.5 Linking Web Pages Within Your Site Using the Nav and Anchor Tags](lesson-35-linking-web-pages-within-your-site-using-the-nav-and-anchor-tags.md)
 * [Lesson 4.1 Lists and the Header, Footer, and Section Elements](lesson-41-lists-and-the-header-footer-and-section-elements.md)
-* [Lesson 4.2: Adding an Unordered List](adding-an-unordered-list.md)
+* [Lesson 4.2 Adding an Unordered List](adding-an-unordered-list.md)
 * [Lesson 4.3 Adding an Ordered List](lesson-43-adding-and-ordered-list.md)
 * [Lesson 4.4 Adding a Header,  Main Section, and Footer to the Body of Your Website](lesson-44-adding-a-header-sections-and-footer-to-the-body-of-your-website.md)
 * [Lesson 4.5 Meta Tags and Comments](lesson-45-meta-tags-and-comments.md)
