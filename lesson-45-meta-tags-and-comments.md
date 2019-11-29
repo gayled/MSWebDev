@@ -19,7 +19,10 @@ Notice the exclamation point in the opening tag as well as the two hyphens. Comm
 ## Code Example
 
 ```text
-	<head>
+<!DOCTYPE html>
+<html>
+<!-- first version complete -->		
+		<head>
 		<title>Snow Leopard Challenges</title>
 		<meta name="description" content="This page describes where the snow leopard is endangered and the causes of its endangerment"/>
 
@@ -29,5 +32,6 @@ Notice the exclamation point in the opening tag as well as the two hyphens. Comm
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	</head>
+	
 ```
 
