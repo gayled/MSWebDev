@@ -32,5 +32,5 @@
 * [Lesson 6.4 Box and Text Shadows](box-shadows-text-shadows-and-browser-prefixes.md)
 * [Lesson 6.5 Adding List Styling](lesson-63-adding-list-styling.md)
 * [Lesson 6.6 Adding a Background Image](lesson-65-adding-a-background-image.md)
-* [Lesson 6.5: Adding Header and Footer Styling](lesson-65-adding-header-and-footer-styling.md)
+* [Lesson 6.7 Adding Header and Footer Styling](lesson-65-adding-header-and-footer-styling.md)
 

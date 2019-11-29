@@ -1,4 +1,4 @@
-# Lesson 6.5: Adding Header and Footer Styling
+# Lesson 6.7 Adding Header and Footer Styling
 
 The header and footer are usually given the same styling in background color, font properties, etc.
 
