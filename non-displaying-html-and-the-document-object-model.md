@@ -34,31 +34,31 @@ The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
 ### Code Example
 
-`<!DOCTYPE html>`
+&lt;!DOCTYPE html&gt;
 
-`<html>`
+&lt;html&gt;
 
-`<head>`
+   &lt;head&gt;
 
-`<title>Snow Leopard Home</title>`
+      &lt;title&gt;Snow Leopard Home&lt;/title&gt;
 
-`<link rel="stylesheet" href="style.css" />`
+      &lt;link rel="stylesheet" href="style.css" /&gt;
 
-`</head>`
+  &lt;/head&gt;
 
-`<body>`
+  &lt;body&gt;
 
-`<h1>Snow Leopards</h1>`
+      &lt;h1&gt;Snow Leopards&lt;/h1&gt;
 
-`<h2>Introducing the Snow Leopard</h2>`
+      &lt;h2&gt;Introducing the Snow Leopard&lt;/h2&gt;
 
-`<p>Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>`
+      &lt;p&gt;Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur  coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.&lt;/p&gt;
 
-`<h2>How the Snow Leopard Adapts to its Environment</h2>`
+      &lt;h2&gt;How the Snow Leopard Adapts to its Environment&lt;/h2&gt;
 
-`<p>For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an extra fur coat when it is extremely cold. So why are they endangered?</p>`
+      &lt;p&gt;For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an extra fur coat when it is extremely cold. So why are they endangered?&lt;/p&gt;
 
-`</body>`
+  &lt;/body&gt;
 
-`</html>`
+&lt;/html&gt;
 
