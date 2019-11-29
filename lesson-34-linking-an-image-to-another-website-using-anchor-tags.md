@@ -1,4 +1,4 @@
-## Linking an Image to Another Website Using Anchor Tags
+## Lesson 3.4 Linking an Image to Another Website Using Anchor Tags
 
 You can turn an image into a hyperlink by nesting the src tag for your image within anchor tags.
 
