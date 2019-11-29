@@ -1,4 +1,4 @@
-# Lesson 3.1: Fixing Slow Loading Images with Pixlr Editor
+# Lesson 3.1 Fixing Slow Loading Images with Pixlr Editor
 
 Go to the Chrome Web Store and add the Pixlr Editor app to Chrome.
 
