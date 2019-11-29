@@ -15,7 +15,7 @@ For now, we will separate the page links by using the \| \(pipe\) character. Not
 1. Copy the nav element code to your second page in the same location, changing the Home link to index.html and the second link to \#. Check that your links work correctly.
 2. On both pages, link the logo to index.html, using \# on the home page and index.html on the second page.
 
-## Code Exampl
+## Code Example
 
 ```text
 		 <a href="#"><img  class="logo" src="images/logo.png" width="60" alt="logo"/></a>
