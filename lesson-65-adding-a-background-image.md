@@ -1,4 +1,4 @@
-# Lesson 6.5: Adding a Background Image
+# Lesson 6.6 Adding a Background Image
 
 Adding a background image can set off the content of your website . Include it in your html rule and make the body rule a solid color while decreasing the screen width of the body element \(75-85% for the width of the body is a reasonable amount for a one column web page\).
 
