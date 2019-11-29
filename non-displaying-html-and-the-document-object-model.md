@@ -1,9 +1,5 @@
 # Lesson 1.3: Non-Displaying HTML and the Document Object Model
 
-```text
-Lesson 1.3 Non-Displaying HTML and the Document Object Model
-```
-
 The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
 **Note:** This tag and the ones that follow don’t display content in your web page, but should not be left out. The doctype allows the browser rendering engine to know that your web page is using the most current version of html, HTML5. If this doctype isn’t included, some browsers may not render \(display\) parts of your website correctly.
@@ -15,7 +11,7 @@ The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
    `body {`
 
-   `background-color: #DDD;`
+   `background-color: #DDD`
 
    `}`
 
@@ -35,35 +31,58 @@ The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
 ## Code Example
 
-&lt;!DOCTYPE html&gt;
-
-&lt;html&gt;
-
-&lt;head&gt;
-
 ```text
-  &lt;title&gt;Snow Leopard Home&lt;/title&gt;
 
-  &lt;link rel="stylesheet" href="style.css" /&gt;
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Snow Leopard Home</title>
+		<meta name="description" content="This home page introduces the endangered snow leopard and tells how it adapts to its environment"/>
+
+		<link href="https://fonts.googleapis.com/css?family=Days+One&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="style.css" />
+		
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	</head>
+
+	<body>
+		<header>
+					<a href="#"><img  class="logo" src="images/logo.png" width="60" alt="logo"/></a>
+
+					<nav>
+						<a href="#">Snow Leopard Home  </a>|
+						<a href="challenges.html"> Snow Leopard Challenges</a>
+					</nav>
+
+		</header>
+
+		<main>
+		<h1>Snow Leopards</h1>
+
+		<h2>Introducing the Snow Leopard</h2>
+
+		<p>Have you ever seen a <a target="_blank" href="https://simple.wikipedia.org/wiki/Snow_leopard">snow leopard</a>? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>
+
+		<a target="_blank" href="https://defenders.org/wildlife"><img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/></a>
+		
+		<h3>A Fierce Stare</h3>
+
+
+		<h2>How the Snow Leopard Adapts to its Environment</h2>
+
+		<p>For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an
+		extra fur coat when it is extremely cold. So why are they endangered?</p>
+
+		<iframe width="425" height="250" src="https://www.youtube.com/embed/oqvjHu8t0KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		</main>
+
+		<footer>
+			&copy; 2019 Created by Gayle D.
+		</footer>	
+	</body>
+</html>
 ```
-
-&lt;/head&gt;
-
-&lt;body&gt;
-
-```text
-  &lt;h1&gt;Snow Leopards&lt;/h1&gt;
-
-  &lt;h2&gt;Introducing the Snow Leopard&lt;/h2&gt;
-
-  &lt;p&gt;Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur  coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.&lt;/p&gt;
-
-  &lt;h2&gt;How the Snow Leopard Adapts to its Environment&lt;/h2&gt;
-
-  &lt;p&gt;For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an extra fur coat when it is extremely cold. So why are they endangered?&lt;/p&gt;
-```
-
-&lt;/body&gt;
-
-&lt;/html&gt;
 
