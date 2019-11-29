@@ -12,6 +12,8 @@
 
 3. Repeat the first step with your logo image. Add it before the h1 heading. Logos are generally small. Don’t add a caption.
 
+### Code Example
+
 `<!DOCTYPE html>`
 
 `<html>`
@@ -28,7 +30,7 @@
 
 `<body>`
 
-**`<img  src="images/logo.png" width="60"/>`**
+`<img  src="images/logo.png" width="60"/>`
 
 `<h1>Snow Leopards</h1>`
 
@@ -36,7 +38,7 @@
 
 `<p>Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>`
 
-**`<img src="images/face.jpeg" width="400"/>`**
+`<img src="images/face.jpeg" width="400"/>`
 
 `<h3>A Fierce Stare</h3>`
 
