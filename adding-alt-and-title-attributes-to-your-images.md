@@ -8,5 +8,7 @@ The alt attribute is absolutely necessary! Its function is to describe the conte
 
 ## Code Example
 
-`<img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/>`
+```text
+<img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/>
+```
 
