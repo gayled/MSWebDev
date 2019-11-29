@@ -11,43 +11,42 @@
 
 ## Code Example
 
-`<!DOCTYPE html>`
-
-`<html>`
-
 ```text
-\`<head>\`
 
-  \`<title>Snow Leopard Home</title\`
+<!DOCTYPE html>
+<html>
 
-  \`<link href="https://fonts.googleapis.com/css?family=Days+One&display=swap" rel="stylesheet">\`
+	<head>
+		<title>Snow Leopard Home</title>
+	  <link rel="stylesheet" href="style.css" />
+	</head>
 
-  \`<link rel="stylesheet" href="style.css" />\`
+	<body>
+		<img src="images/logo.png" width="60"/>
+
+		<h1>Snow Leopards</h1>
+
+		<h2>Introducing the Snow Leopard</h2>
+
+		<p>Have you ever seen a snow leopard</a>? They are some of the most 
+		beautiful animals on Earth. They have a whitish-gray fur coat spotted
+	  with large black spots that allows them to blend in with the rocky 
+	  mountains where they live. Snow leopards have also adapted to live in 
+	  some of the most severe climates on Earth? You would think that they 
+	  would be tough survivors but you would be wrong.</p>
+
+	  <img src="images/face.jpeg" width="400"/>	
+		<h3>A Fierce Stare</h3>
+
+		<h2>How the Snow Leopard Adapts to its Environment</h2>
+
+		<p>For thousands of years, these large cats have been the kings 
+		of the mountains of central Asia. They can jump six times the 
+		length of their body and can use their large tails for balance. 
+		They can also wrap their tails around their body for an
+		extra fur coat when it is extremely cold. So why are they 
+		endangered?</p>
+	</body>
+</html>
 ```
-
-`</head>`
-
-`<body>`
-
-```text
- \`<img  src="images/logo.png" width="60"/>\`
-
-\`<h1>Snow Leopards</h1>\`
-
-\`<h2>Introducing the Snow Leopard</h2>\`
-
-\`<p>Have you ever seen a snow leopard? They are some of the most beautiful animals on Earth. They have a    whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains    where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You    would think that they would be tough survivors but you would be wrong.</p>\`
-
-\`<img src="images/face.jpeg" width="400"/>\`
-
-\`<h3>A Fierce Stare</h3>\`
-```
-
-...
-
-`</body>`
-
-`</html>`
-
-...
 
