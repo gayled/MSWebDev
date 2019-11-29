@@ -1,4 +1,4 @@
-## Adding alt and title Attributes to your Images
+## Lesson 3.2 Adding alt and title Attributes to your Images
 
 The alt attribute is absolutely necessary! Its function is to describe the content of your images to visually impaired persons who use a screen reader and also allows search engines to index the content of your images. Its form is **alt=”short\_description\_of\_image”**.
 
@@ -8,5 +8,7 @@ The alt attribute is absolutely necessary! Its function is to describe the conte
 
 3. Add a tooltip to one of the images in your page.
 
+### Code Example
 
+`<img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/>`
 
