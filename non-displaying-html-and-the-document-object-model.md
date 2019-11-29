@@ -38,50 +38,31 @@ The **&lt;!DOCTYPE html&gt;** tag should be the first line of your webpage.
 
 	<head>
 		<title>Snow Leopard Home</title>
-		<meta name="description" content="This home page introduces the endangered snow leopard and tells how it adapts to its environment"/>
-
-		<link href="https://fonts.googleapis.com/css?family=Days+One&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="style.css" />
-		
-		<meta charset="UTF-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	</head>
 
 	<body>
-		<header>
-					<a href="#"><img  class="logo" src="images/logo.png" width="60" alt="logo"/></a>
-
-					<nav>
-						<a href="#">Snow Leopard Home  </a>|
-						<a href="challenges.html"> Snow Leopard Challenges</a>
-					</nav>
-
-		</header>
-
-		<main>
 		<h1>Snow Leopards</h1>
 
 		<h2>Introducing the Snow Leopard</h2>
 
-		<p>Have you ever seen a <a target="_blank" href="https://simple.wikipedia.org/wiki/Snow_leopard">snow leopard</a>? They are some of the most beautiful animals on Earth. They have a whitish-gray fur coat spotted with large black spots that allows them to blend in with the rocky mountains where they live. Snow leopards have also adapted to live in some of the most severe climates on Earth? You would think that they would be tough survivors but you would be wrong.</p>
-
-		<a target="_blank" href="https://defenders.org/wildlife"><img src="images/face.jpeg" width="400" alt="Snow leopard face" title="Snow Leopard Face"/></a>
-		
-		<h3>A Fierce Stare</h3>
-
+		<p>Have you ever seen a snow leopard? They are some of the most 
+		beautiful animals on Earth. They have a whitish-gray fur coat 
+		spotted with large black spots that allows them to blend in with 
+		the rocky mountains where they live. Snow leopards have also 
+		adapted to live in some of the most severe climates on Earth? 
+		You would think that they would be tough survivors but you would 
+		be wrong.</p>
 
 		<h2>How the Snow Leopard Adapts to its Environment</h2>
 
-		<p>For thousands of years, these large cats have been the kings of the mountains of central Asia. They can jump six times the length of their body and can use their large tails for balance. They can also wrap their tails around their body for an
-		extra fur coat when it is extremely cold. So why are they endangered?</p>
-
-		<iframe width="425" height="250" src="https://www.youtube.com/embed/oqvjHu8t0KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-		</main>
-
-		<footer>
-			&copy; 2019 Created by Gayle D.
-		</footer>	
+		<p>For thousands of years, these large cats have been the kings
+	  of the mountains of central Asia. They can jump six times the  
+	  length of their body and can use their large tails for balance. 
+	  They can also wrap their tails around their body for an
+		extra fur coat when it is extremely cold. So why are they 
+		endangered?</p>
+		
 	</body>
 </html>
 ```
