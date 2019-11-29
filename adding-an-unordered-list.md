@@ -9,12 +9,13 @@ The list item tags \(**&lt;li&gt;** and **&lt;/li&gt;**\) are nested within the 
 
 Example:
 
-```text
-<ul>
-    <li>green eggs</li>
-    <li>ham</li>
-</ul>
-```
+`<ul>`
+
+`<li>green eggs</li>`
+
+`<li>ham</li>`
+
+`</ul>`
 
 1. Add your unordered list after your paragraph in your second page.
 
