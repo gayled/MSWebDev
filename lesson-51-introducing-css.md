@@ -1,4 +1,4 @@
-# Lesson 5.1: Introducing CSS
+# Lesson 5.1 Introducing CSS
 
 CSS \(**Cascading Style Sheets**\) is the language that is used to define your website’s presentation or look and feel. It was developed so that the design and layout of a webpage could be separated from the content of the page.
 
