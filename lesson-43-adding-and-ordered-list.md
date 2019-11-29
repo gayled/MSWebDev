@@ -1,4 +1,4 @@
-## **Adding an Ordered List**
+## Lesson 4.3 **Adding an Ordered List**
 
 When the order of your list matters, you want to use the ordered list element, &lt;ol&gt;.
 
@@ -12,5 +12,55 @@ When the order of your list matters, you want to use the ordered list element, &
 
 5. Add another image between the two lists.
 
+### Code Example
 
+...
+
+`		<ul>`
+
+`			<li>China</li>`
+
+`			<li>Bhutan</li>`
+
+`			<li>Nepal</li>`
+
+`			<li>India</li>`
+
+`			<li>Pakistan</li>`
+
+`			<li>Afghanistan</li>`
+
+`			<li>Russia</li>`
+
+`			<li>Mongolia</li>`
+
+`		</ul>`
+
+`		<a target="_blank" href="https://defenders.org/wildlife"><img src="images/cubs.jpg" width="400" alt="Snow leopard Cubs" title="Snow Leopard Cubs"/></a>`
+
+`		<h3>Cute Snow Leopard Cubs</h3>`
+
+`		<h2>Causes of Snow Leopard Population Decline</h2>`
+
+`		<p>Many factors contribute to declining snow`
+
+`			leopard numbers in these countries. Some of them are:`
+
+`		</p>`
+
+`		<ol>`
+
+`			<li>Climate change - greatest long term threat that could destroy 30% of their habitat</li>`
+
+`			<li>Local communities - kill the animals snow leopards prey upon</li>`
+
+`			<li>Killed by farmers - when they prey on their livestock to survive</li>`
+
+`			<li>Human settlement in their range - forces them to survive in smaller areas with less prey</li>`
+
+`		</ol>`
+
+`	</body>`
+
+`</html>`
 
