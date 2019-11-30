@@ -1,4 +1,4 @@
-# Lesson 6.1 The Box Model
+# Lesson 6.1 The CSS Box Model
 
 The browser by default displays block elements in new lines from top to bottom and inline elements from left to right. All HTML elements can be visualized as boxes. The CSS box model describes the impact that CSS rules have on the styling of an HTML element. 
 
