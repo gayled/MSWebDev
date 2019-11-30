@@ -1,6 +1,6 @@
-# Lesson 6.2 Styling Images with CSS
+# Lesson 6.2 Giving Borders to Images Using CSS
 
-Image width and height can also be styled with CSS. The difference is that the units must be specified with CSS, such as width: 50px;
+Image width and height can also be styled with CSS. The difference is that the units must be specified with CSS, such as width: 50px; 
 
 1. Images as well as other HTML elements can have **borders**. Border styles are solid, dotted, dashed, double, groove, ridge, inset, outset, and none. Use the **img selector** to give your images a border style.
 2. Adjust the border size with the **border-width** property.
