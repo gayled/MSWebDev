@@ -1,6 +1,6 @@
 # Lesson 2.1 Adding an Images Folder to the Website Folder
 
-You will add two images to your web page. One will be a logo for the top of your page and the other will be placed between the two paragraphs.
+You will add two images to your web page. One will be a logo for the top of your page and the other will be placed between the two paragraphs. The img element is an inline element. Unlike block elements, such as paragraphs and headings, an image will take up only enough width as necessary. Two images will display side by side if their widths allow it.
 
 **Note:** It is not good to add too many images to web pages as you’re learning because they will cause your pages to load slowly. Also, we save all images to our images folder because, if images are linked directly to another website, they will break if the remote website moves or takes them down, leaving a gap in your page.
 
