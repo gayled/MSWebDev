@@ -8,3 +8,21 @@ Adding a background image can set off the content of your website . Include it i
    3. Add **margin: 0 auto** to your html rule to center the image.
       1. Padding adds space between the margin \(or border if you have one\) and your content. Add a padding rule to your body and use it to adjust the left and right appearance of your column.
 
+## Code Example
+
+```text
+html {
+	background-image: url(images/background.png);
+	color: darkslategray;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+}
+
+body {
+	background-color: Gainsboro;
+	width: 75%;
+	margin: 0 auto;
+	padding: 10px 20px;
+}
+```
+
