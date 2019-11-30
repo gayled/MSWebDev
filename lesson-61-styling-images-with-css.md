@@ -1,4 +1,4 @@
-# Lesson 6.2 Giving Borders to Images Using CSS
+# Lesson 6.2 Adding Borders to Images Using CSS
 
 Image width and height can also be styled with CSS. The difference is that the units must be specified with CSS, such as width: 50px; 
 

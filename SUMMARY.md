@@ -27,7 +27,7 @@
 * [Lesson 5.7 Font Size, Weight, and the Font Shorthand Property](font-size-weight-and-the-font-shorthand-property.md)
 * [Lesson 5.8 Styling Anchor Elements Using Pseudo-Classes](styling-anchor-elements-using-pseudo-classes.md)
 * [Lesson 6.1 The CSS Box Model](untitled.md)
-* [Lesson 6.2 Giving Borders to Images Using CSS](lesson-61-styling-images-with-css.md)
+* [Lesson 6.2 Adding Borders to Images Using CSS](lesson-61-styling-images-with-css.md)
 * [Lesson 6.3 Adding Margins to HTML Elements](lesson-62-adding-margins-to-html-elements.md)
 * [Lesson 6.4 Box and Text Shadows](box-shadows-text-shadows-and-browser-prefixes.md)
 * [Lesson 6.5 Adding List Styling](lesson-63-adding-list-styling.md)
